@@ -1,0 +1,27 @@
+WEb:  laravel-auth-webshop.infinityfreeapp.com
+
+Account: if0_42312581
+pass: ppbOqYLbLY
+
+Database: if0_42312581_auth
+
+
+Druga:
+
+Web: laravel-auth-web1.infinityfreeapp.com
+
+Account: if0_42319475
+pass: shM428ocPdTvmrH
+
+Database: if0_42319475_webshop1
+
+
+treća:
+
+Web: laravel-webshop2.infinityfreeapp.com
+
+Account: if0_42320341
+pass: JmwMonvMDW
+
+Database: if0_42319475_webshop1
+
