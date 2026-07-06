@@ -123,4 +123,6 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
+    'korisnik' => env('APP_KORISNIK', 'Nepoznato'),
+
 ];
